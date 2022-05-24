@@ -1,5 +1,4 @@
 My First post on github
----
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
----
+
+title: "My file"
+date: 2022-05-24
